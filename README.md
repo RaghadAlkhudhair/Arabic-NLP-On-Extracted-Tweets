@@ -6,15 +6,14 @@ This project was built to apply Natural Language Processing (NLP) on Arabic text
 ### Data 
 - Tweets Mentioning @Tawakkalna_Care
 - around 3000 tweets
-- Labeles into three categories: 
+- Labeles into categories: 
 
-  0 ---> Noise
 
-  1 ---> Question
 
-  2 ---> Answer  
+![Pie_chart_project](https://user-images.githubusercontent.com/51859762/140299733-83f2f5f2-d776-4d04-9323-29c1ac671b66.png)
 
-  3 ---> Comment
+
+
 
 
 ### Notebooks:
